@@ -1,3 +1,5 @@
+#Calcula média aritmética do aluno
+
 nota1 = float(input ("Insira a primeira nota: "))
 nota2 = float(input ("Insira a segunta nota: "))
 nota3 = float(input ("Insira a terceira nota: "))

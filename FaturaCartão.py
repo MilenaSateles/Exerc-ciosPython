@@ -1,3 +1,5 @@
+#Gera mensagem para o cliente com as informações digitadas
+
 nome = input ("Digite o nome do cliente: ")
 dia_vencimento = input ("Digite o dia de vencimento: ")
 mes_vencimento = input ("Digite o mês de vencimento: ")

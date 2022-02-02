@@ -1,3 +1,6 @@
+#Resolve uma equação de segundo grau aplicando a fórmula de Bhaskara
+#Aponta se a equação não possui raízes reais, ou se possui uma ou duas raízes
+
 import math
 
 a = float (input ("Digite o valor de a: "))

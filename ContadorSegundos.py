@@ -1,3 +1,5 @@
+#Converte "segundos" em "horas, minutos e segundos"
+
 segundos_str = input("Por favor, entre com o número de segundos que deseja converter: ")
 total_segs = int(segundos_str)
 

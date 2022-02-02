@@ -1,3 +1,5 @@
+#Converte "segundos" em "dias, horas, minutos e segundos"
+
 segundos = int(input("Por favor, entre com o número de segundos que deseja converter: "))
 
 dias = segundos // 86400
