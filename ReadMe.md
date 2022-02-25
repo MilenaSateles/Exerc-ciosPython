@@ -1,9 +1,9 @@
 # Treinando Python 🖥️
-<div style="text-align: justify">Repositório criado para meus exercícios e anotações (resumidas) de Python referentes ao curso Introdução à Ciência da Computação com Python, da USP. Utilizei também o conteúdo e exercícios aprendidos durante a minha graduação na disciplina Fundamentos de Programação, disponibilizados nas Notas de Aula (Prof. Armando Luiz N. Delgado, 2017).  
+<div style="text-align: justify">Repositório criado para meus exercícios e resumos das anotações de Python referentes ao curso Introdução à Ciência da Computação com Python, da USP. Utilizei também o conteúdo e exercícios aprendidos durante a minha graduação na disciplina Fundamentos de Programação disponibilizados nas Notas de Aula (Prof. Armando Luiz N. Delgado, 2017). </div>
 
-Os exercícios estão separados de acordo com o conteúdo estudado, sendo possível acessá-los no índice abaixo.</div>
+<div style="text-align: justify">Os exercícios estão separados de acordo com o conteúdo estudado, sendo possível acessá-los no índice abaixo.</div>
 
-========================================================
+____
 
 ## Índice
 
@@ -11,8 +11,7 @@ Os exercícios estão separados de acordo com o conteúdo estudado, sendo possí
 - [*Input*](#Input)
 - [Expressões booleanas](#Expressões-booleanas)
 - [Execução condicional](#Execução-condicional)
-- [Repetição com WHILE](#Repetição-com-WHILE)
-- [Variáveis booleanas](#Variáveis-booleanas)
+- [Repetição com *while*](#Repetição-com-WHILE)
 - [Funções](#Funções)
 <!--te-->
 
@@ -20,7 +19,7 @@ _________________________________________________________________
 
 
 ## Input
-<div style="text-align: justify"> Usa-se *input* para que o usuário insira os dados solicitados pelo programa. A saída é sempre um *string*, sendo preciso alterar o tipo de dado (caso seja numérico) para utilizá-o em uma operação.
+<div style="text-align: justify"> Utiliza-se *input* para que o usuário insira os dados solicitados pelo programa. A saída é sempre um *string*, sendo preciso alterar o tipo de dado (caso seja numérico) para utilizá-o em uma operação.
 
 ### Exercícios usando *input*:
 >- [Contador de segundos](https://github.com/MilenaSateles/TreinandoPython/blob/main/ContadorSegundos.py)
@@ -30,6 +29,8 @@ _________________________________________________________________
 >- [Fatura do cartão](https://github.com/MilenaSateles/TreinandoPython/blob/main/FaturaCart%C3%A3o.py)
 >- [Média aritmética](https://github.com/MilenaSateles/TreinandoPython/blob/main/MediaAritmetica.py)
 >- [Perímetro e área](https://github.com/MilenaSateles/TreinandoPython/blob/main/PerimetroArea.py)
+>- [Antecessor e sucessor](https://github.com/MilenaSateles/TreinandoPython/blob/main/AntecessorSucessor.py)
+
 
 _____
 
@@ -80,13 +81,7 @@ Nível | Categoria | Operadores
 2 | lógico | and
 1 (baixo) | lógico | or
 
-
-### Exercícios usando expressões booleanas:
-- 
--
--
-
-
+Obs: grande parte da resolução dos exercícios presentes neste material fazem o uso de expresões booleanas.
 ____
 
 ## Execução condicional
@@ -114,7 +109,7 @@ Compõe a estrutura IF-ELIF-ELSE. Indica diferentes decisões que podem ser toma
 
 ----
 
-## Repetição com WHILE
+## Repetição com *while*
 Os laços de repetição ou *loopings* são utilizados para repetir uma sequência de instruções. O comando *while* tem duas partes: a expressão e o bloco de sentenças da repetição. No caso do comando ***while***, o computador continua executando o laço ***enquanto***a condição for verdadeira. Quando se tornar falsa, o comando seguinte é executado.
 
 ### Exercícios utilizado WHILE:
@@ -142,7 +137,13 @@ De maneira geral, o formato de definição de uma função é:
 As funções podem ou não ter parâmetros atribuidos a ela, e podem ou não retornar resultados para o usuário.
 
 ### Exercícios usando funções:
->- 
->- 
+>- [Fórmula de Bhaskara 3](https://github.com/MilenaSateles/TreinandoPython/blob/main/Bhaskara3.py)
+>- [FizzBuzz](https://github.com/MilenaSateles/TreinandoPython/blob/main/Fun%C3%A7%C3%A3oFizzBuzz.py)
+>- [Maior número](https://github.com/MilenaSateles/TreinandoPython/blob/main/Fun%C3%A7%C3%A3oMaiorNum.py)
+>- [Jogo NIM](https://github.com/MilenaSateles/TreinandoPython/blob/main/JogoNIM.py) - em andamento
+>- [Maior inteiro](https://github.com/MilenaSateles/TreinandoPython/blob/main/MaiorInteiro.py)
+>- [Maior número primo](https://github.com/MilenaSateles/TreinandoPython/blob/main/RetornaPrimo.py)
+>- [Vogais e consoantes](https://github.com/MilenaSateles/TreinandoPython/blob/main/VogaisEConsoantes.py)
+
 
 
